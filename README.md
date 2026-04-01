@@ -2,8 +2,7 @@
 
 ## ai-assisted
 
-i wrote these projects using aider with mostly open weight models.
-
+- [musicserver](https://github.com/g2mt/musicserver): music server client program
 - [serveroute](https://github.com/g2mt/serveroute): reverse proxy server in go
 - [clickassist](https://github.com/g2mt/clickassist): A click assistant program that simulates touch screen events.
 - [py-qtimgviewer](https://github.com/g2mt/py-qtimgviewer): vibe coded image gallery for personal use.
